@@ -1,0 +1,30 @@
+body.container {
+    background-color: aqua;  
+}
+#titulo {
+    margin-top: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+section.entrada {
+    /* margin-left: 50px; */
+    margin-top: 50px;
+    display: flex;
+    justify-items: center;
+
+}
+
+#tabla {
+
+    text-align: center;
+    border:1px solid black; 
+}
+
+.boton {
+
+    margin-top: 30px;
+    margin-left: 50px;
+}

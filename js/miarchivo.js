@@ -21,7 +21,7 @@ function agregarProducto (){
       alert("Las ventas no pueden superar la cantidad de mercaderia comprada")
 
     }else{ 
-     cuadro.push ([producto, pVenta, pCompra, ganancia, cantComprada, cantVendida, stock, gananciaTotal]);
+     cuadro.push ([producto, pCompra, pVenta, ganancia, cantComprada, cantVendida, stock, gananciaTotal]);
 
      construirCuadro()   
     }     
